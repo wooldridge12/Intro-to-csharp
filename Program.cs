@@ -11,7 +11,7 @@
 //     }
 // }
 
-// System.Console.WriteLine("Hello World");
+System.Console.WriteLine("Hello World");
 
 System.Console.Write("Who would you like to say hello to? ");
 
@@ -25,3 +25,8 @@ else
 {
     System.Console.WriteLine($"Hello, {name}!");
 }
+
+// for (int i = 0; i < 20; i++)
+// {
+//     System.Console.WriteLine($"The number is {i}");
+// }
